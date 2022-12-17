@@ -1,2 +1,4 @@
 .scannerworks
 .pytest_cache
+.idea
+__pycache__
