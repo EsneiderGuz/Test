@@ -1,6 +1,7 @@
 from unittest import TestCase
-from stock_controller import *
-from app import *
+from stock_controller import stock, delete_stock, vehicle, create_stock, create_vehicle
+from app import connection
+import json
 
 
 class TestStock(TestCase):
